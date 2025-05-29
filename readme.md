@@ -26,7 +26,7 @@
    python -m http.server 8000
    
  
-4. Перейдите по адресу http://locallhost.com/8000 в вашем браузере.
+4. Перейдите по адресу http://locallhost.com/ в вашем браузере.
  
  Лицензия
  
