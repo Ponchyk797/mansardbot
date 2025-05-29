@@ -26,7 +26,7 @@
    python -m http.server 8080
    
  
-4. Перейдите по адресу http://locallhost.com в вашем браузере.
+4. Перейдите по адресу http://locallhost.com/8080 в вашем браузере.
  
  Лицензия
  
