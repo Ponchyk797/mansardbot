@@ -13,7 +13,7 @@
  
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/ваш-username/roof-construction.git
+   git clone https://github.com/Ponchyk797/mansardbot.git
    
  
 2. Перейдите в директорию проекта:
